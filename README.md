@@ -12,3 +12,5 @@ Although we recognize that this can be accomplished easily via transfer learning
 ## Results
 
 Utilizing learning rate scheduling and data augmentation we were able to build a CNN with 97% acccuracy and a balanced confusion matrix with nearly equal misclassified images. We are extremely satisified with this result and hope you enjoy the project.
+
+Please feel free to contact me (Mark Dodd) at [LinkedIn](https://www.linkedin.com/in/mark-dodd-ai/) for additional information.
